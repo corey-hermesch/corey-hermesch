@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently playing around with data that catches my interest.
 - 🌱 I’m currently learning about ETL and Data Warehouse development.
-- 📫 How to reach me: corey.hermesch@gmail.com
-- 😄 Pronouns: He/His/Him
+- 📖 I learned Data Science at [Codeup](https://codeup.edu/program/data-science/)
+- 📖 I learned Computer Science at [Kansas State University](https://k-state.edu/)
 - ⚡ Fun fact: I flew F-16s for the US Air Force and Texas Air National Guard
 - 🤔 I’m currently open for a new job opportunity, you can contact me through any of the below links
 
